@@ -35,7 +35,7 @@ Python, Pandas, NumPy, Scikit-learn, Streamlit, Power BI, SQL, NLP, Exploratory 
 
 ## 🌐 Live Demo
 
-> Coming soon on [Streamlit Cloud](https://streamlit.io/cloud)
+> [Streamlit Cloud](https://chaviva16-portfolio.streamlit.app/)
 
 ## 📫 Contact Me
 
