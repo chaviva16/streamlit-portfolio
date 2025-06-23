@@ -4,7 +4,7 @@ Welcome to my interactive Streamlit portfolio! I'm **Otabor Favour**, a data sci
 
 ## 👩‍💻 About Me
 
-I'm a data enthusiast skilled in Python, machine learning, data wrangling, and storytelling through analytics. I love building intelligent systems that solve real-world problems and improve decision-making.
+I'm a data enthusiast skilled in Python, machine learning, data wrangling, and storytelling through analytics. I love building intelligent systems that solve real world problems and improve decision making.
 
 ## 🚀 Projects
 
